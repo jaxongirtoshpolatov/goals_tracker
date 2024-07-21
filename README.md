@@ -1,4 +1,4 @@
-# goals-traacker
+# goals-tracker
 
 ## Project setup
 ```
