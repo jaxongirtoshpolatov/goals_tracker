@@ -119,4 +119,5 @@ export default {
 .addTask_btn.rotate_btn {
   transform: translateX(-50%) rotate(45deg);
 }
+
 </style>

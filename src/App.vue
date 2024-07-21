@@ -39,4 +39,9 @@ body {
   width: 100%;
   margin: 0 auto;
 }
+@media screen and (max-widtht: 1200px) {
+  .container {
+    max-width: 90%;
+  }
+}
 </style>

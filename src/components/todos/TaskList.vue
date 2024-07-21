@@ -181,4 +181,5 @@ export default {
   text-decoration: line-through;
   color: #ccc;
 }
+
 </style>

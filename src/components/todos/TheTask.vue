@@ -35,4 +35,10 @@ ul {
   padding: 1rem;
   list-style: none;
 }
+
+@media screen and (max-with: 1200px) {
+  ul {
+    width: 90%;
+  }
+}
 </style>

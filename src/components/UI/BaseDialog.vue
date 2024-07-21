@@ -25,7 +25,7 @@
 
 <script>
 export default {
-  inject: ['addTask'],
+  inject: ["addTask"],
   props: {
     title: {
       type: String,
@@ -81,6 +81,16 @@ footer {
   }
   100% {
     transform: translate(-50%, -50%) scale(1);
+  }
+}
+@media screen and (max-width: 768px) {
+  dialog {
+    max-width: 80%;
+  }
+}
+@media screen and (max-width: 480px) {
+  dialog {
+    max-width: 70%;
   }
 }
 </style>
